@@ -1,4 +1,4 @@
----
+﻿---
 title: My Blog
 uid: 202302030337
 aliases: [BLOG]
@@ -8,5 +8,5 @@ from: Xun
 **使用Hexo+Obsidian+github pages 部署了博客**
 
 ```
-欢迎访问我的博客www.xuns.me
+欢迎访问我的博客:www.xuns.me
 ```
